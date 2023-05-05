@@ -6,7 +6,8 @@
 
 1. [Description](#description)
 2. [Installation](#installation)
-3. [License](#license)
+3. [Tests](#tests)
+4. [License](#license)
 
 ## Description
 
@@ -35,7 +36,13 @@ THEN I am shown an image that matches the criteria I entered
 
 ## Installation
 
-clone repo
+Clone the repository.
+
+You can run the program in your terminal after initializing NodeJs and running the command `npm i` to install any missing dependencies. From the root folder you can run the command `node index.js` then follow the prompts from there.
+
+## Tests
+ You should have all dependencies at this point, so you can just run `npm test` or `npm test --coverage` in your terminal.
+
 
 ## License
 
