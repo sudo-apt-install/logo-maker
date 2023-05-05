@@ -6,9 +6,7 @@
 
 1. [Description](#description)
 2. [Installation](#installation)
-3. [Contributions](#contributions)
-4. [Tests](#tests)
-5. [License](#license)
+3. [License](#license)
 
 ## Description
 
@@ -38,10 +36,6 @@ THEN I am shown an image that matches the criteria I entered
 ## Installation
 
 clone repo
-
-## Contributions
-
-only me
 
 ## License
 
