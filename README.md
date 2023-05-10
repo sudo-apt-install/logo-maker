@@ -34,6 +34,10 @@ WHEN I open the "logo(.svg)" file in a browser
 THEN I am shown an image that matches the criteria I entered
 `
 
+### Demonstrational gif
+![Logo maker gif](./Assets/logo%20maker%20in%20action.gif)
+
+
 ## Installation
 
 Clone the repository.
